@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "My Personal Website"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -55,13 +55,13 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Ohio State University", url = "" } ]
+  organizations = [ { name = "Ohio State University", url = "https://cse.osu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "10549008_682106125204406_3226064867099298083_o.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jayavardhanr1@gmail.com"
   address = "245 W 9th Ave, Columbus, Ohio"
-  phone = "614 687 8028"
+  phone = "+1 614-687-8028"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -89,10 +89,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 1
+  map_api_key = "AIzaSyACWD0asiDIlzIv_fAcBfU292rQ_hpwOeE"
+  latitude = "39.993182"
+  longitude = "-83.013041"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -214,7 +214,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "jayavardhanr1@gmail.com"
+    link = "mailto:jayavardhanr1@gmail.com"
 
   [[params.social]]
     icon = "twitter"
@@ -223,7 +223,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "ai"
+    icon_pack = "fa"
     link = "//linkedin.com/in/jayavardhan-reddy-peddamail-6b4125a0"
 
   [[params.social]]
