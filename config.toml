@@ -246,8 +246,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Professional Work Experience"
-  url = "#work_experience"
+  name = "Work Experience"
+  url = "#work_ex"
   weight = 2
   
 [[menu.main]]
@@ -256,19 +256,14 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 4
-
-[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
-
+  weight = 4
+  
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 6
+  name = "Talks and Presentations"
+  url = "#talks"
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
