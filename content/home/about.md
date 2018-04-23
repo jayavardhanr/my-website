@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Peddamail Jayavardhan Reddy is a Master's student in Computer Science at the Ohio State University, Columbus. His research interests include Deep Learning, Natural Language Processing and Time-Series Analysis. Prior to his masters, Jayavardhan worked at Citi Group for two years, performing the role as an application developer during the 1st year and a Natural Language Processing Engineer during the 2nd year.
+Peddamail Jayavardhan Reddy is a Master's student in Computer Science at the Ohio State University, Columbus. His research interests include Deep Learning, Natural Language Processing and Time-Series Analysis. Prior to his masters, Jayavardhan worked at Citi Group for two years, performing the role as an application developer during the 1st year and a NLP engineer during the 2nd year.
