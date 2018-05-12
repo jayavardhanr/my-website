@@ -23,7 +23,7 @@ weight = 18
   
 - **Natural Language Processing Engineer**, Citi Group (July 2016 - June 2017)
 
-Worked on the developement of Chat Bot for Real-time Financial Trading. As part of the NLP team, I performed the following tasks:
+Worked on the developement of Chat Bot for Real-time Financial Trading at [Citi group](https://www.citigroup.com/citi/). As part of the NLP team, I performed the following tasks:
    - Developed models for Information Retrieval from financial Trade chats using NLP and Machine learning.
    - Developed regular expressions to capture financial entities from the unstructured financial text data.
    - Developed and tuned classification models to classify between different financial entities (swaps vs bonds).
