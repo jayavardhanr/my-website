@@ -38,9 +38,7 @@ weight = 18
      -	Designed modules for Runbook version control, approval workflow and notification alerts.
      -	The runbook module, centralized the data storage providing scope for future data analysis on a large data corpus.
      -	Developed the module using core Java, JDBC, Google Web Toolkit(GWT), Hibernate, SQL.
-     
-     Performed proof of concept of blockchain for reconciliation.
-     -  Proved blockchain helps in avoiding the costly process of end of day internal reconciliations
+     -  Performed POC on blockchain for Reconciliation, proving blockchain helps in avoiding the expensive process of end-of-day internal reconciliations.
      -	Presented *“Blockchain and it's use cases in Financial Institutions”* at the Citi Annual Town Hall’2016.
 
           
