@@ -28,7 +28,7 @@ weight = 18
      -  Developed regular expressions to capture financial entities from the unstructured financial text data.
      -  Developed and tuned classification models to classify between different financial entities (swaps vs bonds).
      -  Developed a deep learning model which can classify between financial vs social texts and a deep Learning model which can extract Ticker information from an unstructured text.
-     -  Improved Performance of the Reference Data Mapper using Bloom filters.
+     -  Improved performance of the reference data mapper using Bloomfilters.
           
    
 - **Application Developer**, Citi Group (July 2015 - June 2016)
