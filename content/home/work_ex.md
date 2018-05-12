@@ -34,15 +34,14 @@ weight = 18
 - **Application Developer**, Citi Group (July 2015 - June 2016)
 
      Worked on the development Java module for automated Runbook generation.
-     -	The runbook module reduced the man hours required for runbook creation by 40%.
-     -	Designed modules for Runbook version control, approval workflow and notification alerts.
-     -	The runbook module, centralized the data storage providing scope for future data analysis on a large data corpus.
-     -	Developed the module using core Java, JDBC, Google Web Toolkit(GWT), Hibernate, Oracle SQL Database.
-   
-     Performed proof of concept of blockchain for reconciliation.
+        -  The runbook module reduced the man hours required for runbook creation by 40%.
+        -	Designed modules for Runbook version control, approval workflow and notification alerts.
+        -	The runbook module, centralized the data storage providing scope for future data analysis on a large data corpus.
+        -	Developed the module using core Java, JDBC, Google Web Toolkit(GWT), Hibernate, SQL.
      
-     -	Proved blockchain helps in avoiding the costly process of end of day internal reconciliations
-     -	Used an open-source blockchain to perform this analysis also created a Java FX based user interface to display the live transactions and results.
-     -	Presented “Blockchain and its use cases” during the Citi Annual Town Hall’2016.
+     Performed proof of concept of blockchain for reconciliation.
+        -  Proved blockchain helps in avoiding the costly process of end of day internal reconciliations
+        -	Used an open-source blockchain to perform this analysis also created a Java FX based user interface to display the live transactions and results.
+        -	Presented “Blockchain and its use cases” during the Citi Annual Town Hall’2016.
 
           
