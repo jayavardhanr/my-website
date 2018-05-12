@@ -15,15 +15,15 @@ weight = 18
 
 +++
 
-- **Deep Learning Intern**, The Climate Corporation (Summer 2018)
+- **Deep Learning Intern**, The Climate Corporation (Summer 2018) 
 
-	        As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development  of a weather-modelling approach for seeding rate prediction.
+     As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development  of a weather-modelling approach for seeding rate prediction.
 	        - Developed an deep unsupervised architecture to model time-series weather information into dense vector representation. 
 	        - Designed and tuned supervised machine learning algorithms to predict optimal seeding rate. The model will be deployed as part of the fieldview application.
   
 - **Natural Language Processing Engineer**, Citi Group (July 2016 - June 2017)
 
-          Worked on the developement of Chat Bot for Real-time Financial Trading at [Citi group](https://www.citigroup.com/citi/). As part of the NLP team, I performed the following tasks:
+     Worked on the developement of Chat Bot for Real-time Financial Trading at [Citi group](https://www.citigroup.com/citi/). As part of the NLP team, I performed the following tasks:
           - Developed models for Information Retrieval from financial Trade chats using NLP and Machine learning.
           - Developed regular expressions to capture financial entities from the unstructured financial text data.
           - Developed and tuned classification models to classify between different financial entities (swaps vs bonds).
@@ -33,13 +33,13 @@ weight = 18
    
 - **Application Developer**, Citi Group (July 2015 - June 2016)
 
-          Worked on the development Java module for automated Runbook generation.
+     Worked on the development Java module for automated Runbook generation.
           -	The runbook module reduced the man hours required for runbook creation by 40%.
           -	Designed modules for Runbook version control, approval workflow and notification alerts.
           -	The runbook module, centralized the data storage providing scope for future data analysis on a large data corpus.
           -	Developed the module using core Java, JDBC, Google Web Toolkit(GWT), Hibernate, Oracle SQL Database.
    
-          Performed proof of concept of blockchain for reconciliation.
+     Performed proof of concept of blockchain for reconciliation.
           -	Proved blockchain helps in avoiding the costly process of end of day internal reconciliations
           -	Used an open-source blockchain to perform this analysis also created a Java FX based user interface to display the live transactions and results.
           -	Presented “Blockchain and its use cases” during the Citi Annual Town Hall’2016.
