@@ -39,7 +39,6 @@ weight = 18
         -	The runbook module, centralized the data storage providing scope for future data analysis on a large data corpus.
         -	Developed the module using core Java, JDBC, Google Web Toolkit(GWT), Hibernate, SQL.
      
-     
      Performed proof of concept of blockchain for reconciliation.
         -  Proved blockchain helps in avoiding the costly process of end of day internal reconciliations
         -	Used an open-source blockchain to perform this analysis also created a Java FX based user interface to display the live transactions and results.
