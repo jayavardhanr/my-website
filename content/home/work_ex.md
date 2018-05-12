@@ -15,27 +15,28 @@ weight = 18
 
 +++
 
-- **Research Assistant**, The Ohio State University 
+- **Deep Learning Intern**, The Climate Corporation (Summer 2018)
 
-	Currently working under the supervision of [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) on developing techniques for effectively utilizing clean and noisy data in natural language processing.
+	As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development  of a weather-modelling approach for seeding rate prediction.
+	- Developed an deep unsupervised architecture to model time-series weather information into dense vector representation. 
+	- Designed and tuned supervised machine learning algorithms to predict optimal seeding rate. The model will be deployed as part of the fieldview application.
+  
+- **Natural Language Processing Engineer**, Citi Group (July 2016 - June 2017)
 
-- **Software Engineering Intern**, AWS Deep Learning
+Worked on the developement of Chat Bot for Real-time Financial Trading. As part of the NLP team, I performed the following tasks:
+   - Developed models for Information Retrieval from financial Trade chats using NLP and Machine learning.
+   - Developed regular expressions to capture financial entities from the unstructured financial text data.
+   - Developed and tuned classification models to classify between different financial entities (swaps vs bonds).
+   - Developed a deep learning model which can classify between financial vs social texts and a deep Learning model which can extract Ticker information from an unstructured text.
+   - Improved Performance of the Reference Data Mapper using Bloom filters.
+   
+- **Application Developer**, Citi Group (July 2015 - June 2016)
 
-	As part of the team that built [Amazon Comprehend](https://aws.amazon.com/comprehend/) I worked on the following tasks for deployment of an NLP service (currently not part of the Comprehend suite) on AWS Infrastructure:
-	- Performing extensive experiments using multiple machine learning models and datasets for the given task.
-	- Creating end to end Serverless application using various AWS services like Step Functions, Lambda, Elastic Container Service, etc.
-
-
-
-- **Research Assistant**, Ubiquitous Knowledge Processing Lab, TU Darmstadt
-
-	- **Advisor** - [Prof. Iryna Gurevych](https://www.ukp.tu-darmstadt.de/people/group-heads/prof-dr-iryna-gurevych/), [Nils Reimers](https://www.ukp.tu-darmstadt.de/people/doctoral-researchers/nils-reimers/)
-	- **Project** - Event & Participant Extraction from News Articles (Automatic Timeline Generation of News Events)
-	
-- **Research Associate**, [Precog Research Group, IIIT Delhi, India](precog.iiitd.edu.in)
-
-- **Software Engineer**, [Search Team, Infoedge India](http://www.infoedge.in/)
-
-- **Software Engineering Intern**, [Samsung Research India](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Noida)
-
-- **Freelance Software Engineer**, [FunnelMailApp](https://angel.co/funnel-2)
+   Worked on the development Java module for automated Runbook generation.
+   -	Reduced the man hours required for Runbook Creation by 40%.
+   -	Developed modules for Runbook version control, approval workflow and notification alerts.
+   -	The module, centralized the data storage providing scope for future data analysis on a large data corpus.
+   -	Implemented the module using core Java, JDBC, GWT, Hibernate, Oracle SQL Database.
+   
+  Performed proof of concept of blockchain for reconciliation.
+   -	Proved blockchain helps in avoiding the costly process of end of day internal reconciliations
