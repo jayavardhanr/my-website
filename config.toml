@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Jayavardhan_Headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jayavardhanr1@gmail.com"
-  address = "245 W 9th Ave, Columbus, Ohio"
+  address = "Columbus, Ohio"
   phone = "+1 614-687-8028"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
