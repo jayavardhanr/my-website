@@ -21,7 +21,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = "Paper_Presentation_Dual"
+url_slides = "Paper_Presentation_Dual.pdf"
 url_video = ""
 url_code = ""
 
