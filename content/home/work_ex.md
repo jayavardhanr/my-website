@@ -18,8 +18,8 @@ weight = 18
 - **Deep Learning Intern**, The Climate Corporation (Summer 2018) 
 
      As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development  of a weather-modelling approach for seeding rate prediction.
-	   - Developed an deep unsupervised architecture to model time-series weather information into dense vector representation. 
-	   - Designed and tuned supervised machine learning algorithms to predict optimal seeding rate. The model will be deployed as part of the fieldview application.
+	   - Developed deep unsupervised architecture to generate features from multi-variatetime-series weather information.
+	   - Developed Transfer learning approach to use weather features developed in supervised machine learning algorithms to predict optimal seeding rate. The model will be deployed as part of the fieldview application.
   
 - **Natural Language Processing Engineer**, Citi Group (July 2016 - June 2017)
 
@@ -27,6 +27,7 @@ weight = 18
      -  Developed models for Information Retrieval from financial Trade chats using NLP and Machine learning.
      -  Developed regular expressions to capture financial entities from the unstructured financial text data.
      -  Developed and tuned classification models to classify between different financial entities (swaps vs bonds).
+     -  Developed a Named Entity Recognizer to detect entities in a financial chat.
      -  Developed a deep learning model which can classify between financial vs social texts and a deep Learning model which can extract Ticker information from an unstructured text.
      -  Improved performance of the reference data mapper using Bloomfilters.
           
