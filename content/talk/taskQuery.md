@@ -2,7 +2,7 @@
 date = 2018-03-12T14:00:00  
 # Schedule page publish date.
 
-title = "Dual Learning for Machine Translation"
+title = "Task-Oriented Query Reformulation with Reinforcement Learning"
 time_start = 2016-03-12T14:00:00  
 #time_end = 2030-06-01T15:00:00
 abstract = ""
@@ -21,7 +21,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/dual-learning-for-machine-translation-107046324"
+url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/task-orientedquery-reformulation"
 url_video = ""
 url_code = ""
 
@@ -39,4 +39,4 @@ caption = ""
 
 +++
 
-[NIPS 2016 paper](https://arxiv.org/pdf/1611.00179.pdf) by Yingce Xia1, Di He2, Tao Qin3, Liwei Wang2, Nenghai Yu1, Tie-Yan Liu3, Wei-Ying Ma3 (Microsoft Research)
+[ACL 2017 paper](https://arxiv.org/abs/1704.04572) by Rodrigo Nogueira and Kyunghyun Cho, New York University
