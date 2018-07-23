@@ -17,9 +17,10 @@ weight = 18
 
 - **Deep Learning Intern**, The Climate Corporation (Summer 2018) 
 
-     As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development  of a weather-modelling approach for seeding rate prediction.
+     As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development of a weather-modelling approach for seeding rate prediction.
 	   - Developed deep unsupervised architecture to generate features from multi-variate time-series weather information.
-	   - Designed transfer learning approach to use weather features developed, in a supervised machine learning algorithms to predict optimal seeding rate. The model will be deployed as part of the fieldview application.
+	   - Designed transfer learning approach to use weather features developed, in a supervised machine learning algorithm to predict optimal seeding rate. 
+     - Developed features from soil composition, hybrids and studied their interaction with weather. The model developed will be deployed as part of the Climate fieldview application.
   
 - **Natural Language Processing Engineer**, Citi Group (July 2016 - June 2017)
 
