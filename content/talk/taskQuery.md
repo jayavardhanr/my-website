@@ -20,8 +20,8 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
-url_slides = "/files/Paper_Presentation_Dual.pdf"
+url_pdf = "/files/Paper_Presentation_Dual.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
