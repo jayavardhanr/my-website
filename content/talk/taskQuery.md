@@ -20,8 +20,8 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "/files/Paper_Presentation_Dual.pdf"
-url_slides = ""
+url_pdf = ""
+url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/dual-learning-for-machine-translation-107046324"
 url_video = ""
 url_code = ""
 
